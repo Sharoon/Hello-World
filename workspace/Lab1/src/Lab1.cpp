@@ -19,8 +19,13 @@ int main() {
 
 		for (i=0;i<box_size;i++)
 		{
-			cout<<"-+-";
+			cout<<"++++";
 		}
+		cout << endl;
+
+
+		cout << "This is your box size : " << box_size << endl;
+
 
 	return 0;
 }
