@@ -19,7 +19,7 @@ int main() {
 
 		for (i=0;i<box_size;i++)
 		{
-			cout<<"--";
+			cout<<"-+-";
 		}
 
 	return 0;
